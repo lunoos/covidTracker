@@ -1,0 +1,313 @@
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T07:22:32.392Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T07:31:01.336Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T07:31:11.681Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T07:37:02.912Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T07:37:10.136Z"}
+{"message":"\u001b[0mGET /statewise \u001b[32m200\u001b[0m 677.089 ms - 253858\u001b[0m","level":"info","timestamp":"2020-12-16T07:37:41.628Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T09:40:12.968Z"}
+{"message":"\u001b[0mGET /statewise \u001b[32m200\u001b[0m 1294.367 ms - 253863\u001b[0m","level":"info","timestamp":"2020-12-16T09:40:19.128Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T09:47:35.704Z"}
+{"message":"dd00cbe4-aca9-40a5-be17-ef675144b194 GET /statewise 200 689.209 ms","level":"info","timestamp":"2020-12-16T09:47:40.926Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:14:49.661Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:28:19.719Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:31:00.486Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:32:38.701Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:35:52.897Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:36:04.139Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:37:53.878Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:38:43.650Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:39:53.822Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:40:35.390Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:41:19.292Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:51:02.253Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:51:07.733Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:55:37.950Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:55:55.679Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T13:56:14.504Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:32:13.595Z"}
+{"message":"65ffbec7-4cfa-488e-ac20-1ac77f284557 GET / 200 1389.846 ms","level":"info","timestamp":"2020-12-16T14:32:54.078Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:36:29.419Z"}
+{"message":"02991288-c265-4a29-9a7c-3895788cca56 GET / 200 1492.213 ms","level":"info","timestamp":"2020-12-16T14:36:39.758Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:40:44.272Z"}
+{"message":"1268c5d8-f34b-4830-bdfe-d3da0c3c9729 GET / 200 1459.160 ms","level":"info","timestamp":"2020-12-16T14:41:03.245Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:41:44.026Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:41:53.231Z"}
+{"message":"89b33279-06a7-4a22-b99c-e02f800512cd GET / 200 1371.461 ms","level":"info","timestamp":"2020-12-16T14:41:58.890Z"}
+{"message":"3be7da77-f822-4aa4-b850-389fae022110 GET / 200 1558.646 ms","level":"info","timestamp":"2020-12-16T14:42:01.206Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:43:34.297Z"}
+{"message":"64a316ba-2f51-426f-a5a7-e994c9b63c90 GET / 200 1427.133 ms","level":"info","timestamp":"2020-12-16T14:43:37.795Z"}
+{"message":"46b4e047-3d13-495e-aff2-c229eae229cf GET / 200 1287.381 ms","level":"info","timestamp":"2020-12-16T14:44:38.271Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:45:02.841Z"}
+{"message":"51481d0d-9b99-493d-aa77-9772c7601edc GET / 200 1387.894 ms","level":"info","timestamp":"2020-12-16T14:45:05.377Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:46:55.297Z"}
+{"message":"dece535c-40a1-4037-9c63-21d3c38e0002 GET /statewise 200 1042.669 ms","level":"info","timestamp":"2020-12-16T14:47:12.761Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:48:39.117Z"}
+{"message":"5fc343d7-fff5-4abb-b92c-779e5e5cd0f2 GET /statewise 200 754.118 ms","level":"info","timestamp":"2020-12-16T14:48:42.970Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:50:02.400Z"}
+{"message":"9c3aea94-0c33-419b-bf22-3975a90cd400 GET /statewise 200 699.477 ms","level":"info","timestamp":"2020-12-16T14:50:07.082Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:50:48.203Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:52:59.272Z"}
+{"message":"628a8eae-9807-4056-8468-93ce4c18b8aa GET /statewise 200 719.487 ms","level":"info","timestamp":"2020-12-16T14:53:00.787Z"}
+{"message":"789d81bb-3c72-4a77-9fb2-a02aa02e8857 GET / 200 1094.361 ms","level":"info","timestamp":"2020-12-16T14:54:00.408Z"}
+{"message":"1acecec9-22e0-4990-ab6f-88da78da388e GET /statewise 200 634.418 ms","level":"info","timestamp":"2020-12-16T14:54:13.029Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:55:13.677Z"}
+{"message":"f78701fc-3fe2-4cb5-804c-1041395759b9 GET /statewise 200 878.215 ms","level":"info","timestamp":"2020-12-16T14:55:21.640Z"}
+{"message":"d2bfe59c-840f-4cfc-b553-c64ba2b0d66f GET /statewise 200 682.754 ms","level":"info","timestamp":"2020-12-16T14:55:54.015Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T14:58:33.988Z"}
+{"message":"b901721a-bdeb-4034-b86e-895634c245b4 GET /statewise 200 650.387 ms","level":"info","timestamp":"2020-12-16T14:58:41.958Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T15:08:26.003Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T15:09:22.401Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T15:09:23.203Z"}
+{"message":"be9dc80e-bd05-49b9-a23e-60f8e562e9b9 GET / 200 1160.492 ms","level":"info","timestamp":"2020-12-16T15:09:27.247Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T16:30:54.224Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T16:33:34.435Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T16:35:37.007Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T16:36:33.465Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T16:43:33.407Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T16:44:05.033Z"}
+{"message":"9e508656-9d49-4ea8-beb1-c9ba7d8d886d GET / - - ms","level":"info","timestamp":"2020-12-16T16:46:07.146Z"}
+{"message":"APP LAUNCHED IN PORT 4000","level":"info","timestamp":"2020-12-16T16:48:22.581Z"}
+{"message":"2299e021-931b-452e-ab09-8d0c08d8cfb6 GET / 200 1157.216 ms","level":"info","timestamp":"2020-12-16T17:12:40.136Z"}
+{"message":"acb47cad-a717-464e-a242-0412e503a66f GET /statewise 200 761.807 ms","level":"info","timestamp":"2020-12-16T17:12:41.000Z"}
+{"message":"a74e86cf-8e5d-4323-a431-c7edbb90bc16 GET / 304 1433.546 ms","level":"info","timestamp":"2020-12-16T17:13:44.409Z"}
+{"message":"3f4f0a54-1988-4ec7-9b1a-84ac7be055b4 GET /statewise 304 657.510 ms","level":"info","timestamp":"2020-12-16T17:13:45.073Z"}
+{"message":"61e1642d-5844-466e-865c-bd7fe15b24b3 GET / 304 1149.753 ms","level":"info","timestamp":"2020-12-16T17:13:51.723Z"}
+{"message":"9cca1cc9-5759-411f-a8a7-11549680cd66 GET /statewise 304 626.289 ms","level":"info","timestamp":"2020-12-16T17:13:52.357Z"}
+{"message":"6edc7054-7725-4c49-a64c-884bdeccc56d GET / 304 1124.964 ms","level":"info","timestamp":"2020-12-16T17:26:23.358Z"}
+{"message":"8b8aa87b-cf74-4ddc-bb0c-ba170017de57 GET /statewise 200 631.249 ms","level":"info","timestamp":"2020-12-16T17:26:23.998Z"}
+{"message":"5ff0c022-43ea-4472-bc0f-1328185f9b86 GET / 304 1438.822 ms","level":"info","timestamp":"2020-12-16T17:27:49.601Z"}
+{"message":"f4e85be9-b994-42c9-b9f4-baa45f297b58 GET /statewise 304 673.332 ms","level":"info","timestamp":"2020-12-16T17:27:50.317Z"}
+{"message":"1da3e787-98cf-4527-9a48-ade8a89f388b GET / 304 1414.267 ms","level":"info","timestamp":"2020-12-16T17:33:55.604Z"}
+{"message":"45e62a34-a4dc-4099-8428-f68bc0905760 GET /statewise 304 575.444 ms","level":"info","timestamp":"2020-12-16T17:33:56.186Z"}
+{"message":"fc1cbd39-eeb0-4427-8a86-1f3b9daa5f51 GET / 304 1030.122 ms","level":"info","timestamp":"2020-12-16T17:34:02.194Z"}
+{"message":"42bdc707-438c-48ba-b1d5-1128ca3977ce GET /statewise 304 619.366 ms","level":"info","timestamp":"2020-12-16T17:34:02.822Z"}
+{"message":"3f13841f-51f6-4799-bd88-a17578f2da1a GET / 304 1175.223 ms","level":"info","timestamp":"2020-12-16T17:37:56.368Z"}
+{"message":"78ce75f0-2fa4-47f4-8a40-86998b9c51df GET /statewise 304 809.991 ms","level":"info","timestamp":"2020-12-16T17:37:57.185Z"}
+{"message":"5e785efd-6de4-48c7-98e5-b07165ec78ac GET / 304 975.808 ms","level":"info","timestamp":"2020-12-16T17:38:32.143Z"}
+{"message":"987dca80-d4d4-46fd-8eb7-56258641996e GET /statewise 304 773.469 ms","level":"info","timestamp":"2020-12-16T17:38:32.923Z"}
+{"message":"690b4dd8-a06e-4ce6-b5a3-74e9432f7d74 GET / 304 1072.340 ms","level":"info","timestamp":"2020-12-16T17:38:48.842Z"}
+{"message":"bd7adee7-23de-4450-b052-6df1c4792353 GET /statewise 304 693.152 ms","level":"info","timestamp":"2020-12-16T17:38:49.581Z"}
+{"message":"df4fe361-bf09-4f61-b4d8-7f1c891b231e GET / 304 1169.486 ms","level":"info","timestamp":"2020-12-16T17:40:56.068Z"}
+{"message":"a69662f8-c0e4-42f6-a19b-c211fc9aa415 GET /statewise 304 1987.329 ms","level":"info","timestamp":"2020-12-16T17:40:58.063Z"}
+{"message":"05e284db-367f-4c6c-9407-41711c852385 GET / 304 1009.210 ms","level":"info","timestamp":"2020-12-16T17:41:00.742Z"}
+{"message":"15038f17-bbef-4247-9de2-b2d72c36f597 GET /statewise 304 602.384 ms","level":"info","timestamp":"2020-12-16T17:41:01.352Z"}
+{"message":"ccb4e1b9-f34e-481b-a72c-bff886ab9353 GET / 304 1301.984 ms","level":"info","timestamp":"2020-12-16T17:45:15.456Z"}
+{"message":"d23f57d9-a974-4d22-b4fb-5c88fb2ff4ea GET /statewise 304 678.321 ms","level":"info","timestamp":"2020-12-16T17:45:16.141Z"}
+{"message":"ebe331ac-52d4-4928-8308-548b52707f2c GET / 304 1029.733 ms","level":"info","timestamp":"2020-12-16T17:45:17.877Z"}
+{"message":"7e49f0d5-1566-4d36-821a-fea9359f2a59 GET /statewise 304 690.192 ms","level":"info","timestamp":"2020-12-16T17:45:18.575Z"}
+{"message":"fdcbcacb-ca8c-49ff-bcbd-775f12665613 GET / 304 1218.896 ms","level":"info","timestamp":"2020-12-16T17:46:47.501Z"}
+{"message":"fadaffd8-ee38-440f-85d7-3ca1ff0c6df9 GET /statewise 304 675.209 ms","level":"info","timestamp":"2020-12-16T17:46:48.183Z"}
+{"message":"9cc31f8f-847d-472e-bab5-6e7662cb936e GET / 304 1108.410 ms","level":"info","timestamp":"2020-12-16T17:47:33.625Z"}
+{"message":"adbb88f7-8746-4815-b217-8e617c5abb5f GET /statewise 304 678.145 ms","level":"info","timestamp":"2020-12-16T17:47:34.311Z"}
+{"message":"3460972e-e1d3-462f-bf63-2901939d106f GET / 304 1172.145 ms","level":"info","timestamp":"2020-12-16T17:47:39.333Z"}
+{"message":"337113c8-7dca-4ab8-bd96-90097c6d2050 GET /statewise 304 634.621 ms","level":"info","timestamp":"2020-12-16T17:47:40.017Z"}
+{"message":"7eded280-f826-42a0-b2c3-9f124428cc9b GET / 304 1295.781 ms","level":"info","timestamp":"2020-12-16T17:47:59.496Z"}
+{"message":"d0a0a96b-2ba6-4695-a816-93fee264ab74 GET /statewise 304 593.799 ms","level":"info","timestamp":"2020-12-16T17:48:00.098Z"}
+{"message":"95f58db2-9a5e-4679-a7e3-88522ada7964 GET / 200 1291.987 ms","level":"info","timestamp":"2020-12-16T17:50:58.541Z"}
+{"message":"b6daeb0f-401d-4ecf-97fc-5730dccf54ad GET /statewise 200 957.033 ms","level":"info","timestamp":"2020-12-16T17:50:59.509Z"}
+{"message":"a5a972eb-c96d-4399-9ac2-72dab1d2e563 GET / 304 1626.316 ms","level":"info","timestamp":"2020-12-16T17:51:18.772Z"}
+{"message":"b01ee2ed-d41b-4e75-9d36-62c5309dd933 GET /statewise 304 661.216 ms","level":"info","timestamp":"2020-12-16T17:51:19.441Z"}
+{"message":"45e50741-fe6d-4f7a-a99b-58d694f09941 GET / 304 1691.081 ms","level":"info","timestamp":"2020-12-16T17:51:39.621Z"}
+{"message":"6dd5c081-2c85-4fe5-83dd-786b35b73178 GET /statewise 304 672.471 ms","level":"info","timestamp":"2020-12-16T17:51:40.301Z"}
+{"message":"0e9d1aa3-d43a-496f-a4b4-f831044130c2 GET / 304 1100.093 ms","level":"info","timestamp":"2020-12-16T17:52:12.034Z"}
+{"message":"27fd1863-d135-404e-a31b-56485ee7096d GET /statewise 304 657.468 ms","level":"info","timestamp":"2020-12-16T17:52:12.700Z"}
+{"message":"864ebe59-6ea6-44c1-b867-7830cf47f26a GET / 304 1463.160 ms","level":"info","timestamp":"2020-12-16T17:53:21.612Z"}
+{"message":"8101fe1e-8a39-4a4d-bfd9-d04ea9c30d7d GET /statewise 304 610.562 ms","level":"info","timestamp":"2020-12-16T17:53:22.295Z"}
+{"message":"bcaa4b34-a6fb-47bb-a1cc-03e11bd8ef78 GET / 304 1066.071 ms","level":"info","timestamp":"2020-12-16T17:57:28.256Z"}
+{"message":"ea2239c6-424b-4d4f-bebe-a25aa2bc035e GET /statewise 304 550.595 ms","level":"info","timestamp":"2020-12-16T17:57:28.813Z"}
+{"message":"5c115a5f-8800-4343-a49a-54078a534d22 GET / 304 994.847 ms","level":"info","timestamp":"2020-12-16T17:57:33.535Z"}
+{"message":"dda6492c-ba46-4746-aa5c-4e27211d306d GET /statewise 304 730.793 ms","level":"info","timestamp":"2020-12-16T17:57:34.597Z"}
+{"message":"de50e995-5bf9-43e2-951c-d76857c9dc9c GET / 304 1112.579 ms","level":"info","timestamp":"2020-12-16T17:57:51.295Z"}
+{"message":"42dd9bf1-ff7e-41b9-81d6-7d484a94fa74 GET /statewise 304 784.494 ms","level":"info","timestamp":"2020-12-16T17:57:52.086Z"}
+{"message":"0cb0538b-4fae-4e3c-975f-7e01d3860862 GET / 304 1883.086 ms","level":"info","timestamp":"2020-12-16T17:58:04.915Z"}
+{"message":"5c817fe9-f6d3-45f0-83e4-751017ec5ff6 GET /statewise 304 2916.897 ms","level":"info","timestamp":"2020-12-16T17:58:07.849Z"}
+{"message":"ff3bd161-436b-485f-9e40-f7079f1e56e9 GET / 304 1409.688 ms","level":"info","timestamp":"2020-12-16T17:58:15.569Z"}
+{"message":"5d41b87c-8c14-4407-ba0f-4325d3de1fce GET /statewise 304 814.651 ms","level":"info","timestamp":"2020-12-16T17:58:16.392Z"}
+{"message":"6459f7a6-76da-4251-903f-bc123ee7d9c8 GET / 304 1581.322 ms","level":"info","timestamp":"2020-12-16T17:58:24.715Z"}
+{"message":"61ca747c-b61d-450a-a58f-adf76bcd9add GET /statewise 304 925.284 ms","level":"info","timestamp":"2020-12-16T17:58:25.648Z"}
+{"message":"dc6302f7-6803-46e4-99f4-8eaf7fa42c00 GET / 304 986.793 ms","level":"info","timestamp":"2020-12-16T18:03:50.147Z"}
+{"message":"6dbcb7a9-4679-415c-97d4-7c823bbadf96 GET /statewise 200 850.944 ms","level":"info","timestamp":"2020-12-16T18:03:51.007Z"}
+{"message":"802c79cd-70c1-4f58-a74d-33ce742afa75 GET / 304 1024.236 ms","level":"info","timestamp":"2020-12-16T18:03:55.309Z"}
+{"message":"d5b9905f-c2fc-48e2-aa33-b84bd2519d11 GET /statewise 304 655.156 ms","level":"info","timestamp":"2020-12-16T18:03:55.973Z"}
+{"message":"06731ad6-cac1-493b-b2ec-73cbdcf55f0e GET / 304 1164.684 ms","level":"info","timestamp":"2020-12-16T18:06:20.385Z"}
+{"message":"c8a736f6-d7a7-4bc5-b96c-ff84580086c8 GET /statewise 304 630.417 ms","level":"info","timestamp":"2020-12-16T18:06:21.025Z"}
+{"message":"5e7cde7e-0df8-4ce3-8923-49500fe47593 GET / 304 1367.600 ms","level":"info","timestamp":"2020-12-16T18:07:25.307Z"}
+{"message":"ce98ae7c-e16a-401f-8585-0a82f165910f GET /statewise 304 826.127 ms","level":"info","timestamp":"2020-12-16T18:07:26.142Z"}
+{"message":"2cfcbfc2-4bac-4490-bdf1-3e620a95fda2 GET / 304 1010.415 ms","level":"info","timestamp":"2020-12-16T18:07:38.134Z"}
+{"message":"23e71f82-f39b-47de-9e3d-799eee9e0fcc GET /statewise 304 748.044 ms","level":"info","timestamp":"2020-12-16T18:07:38.901Z"}
+{"message":"04e3a6c8-0cd0-4d7b-a891-fa93f3a94113 GET / 304 1201.734 ms","level":"info","timestamp":"2020-12-16T18:08:11.034Z"}
+{"message":"63480624-69cf-469b-ae73-5fa165c9c89f GET /statewise 304 569.813 ms","level":"info","timestamp":"2020-12-16T18:08:11.612Z"}
+{"message":"6ca86f9f-c56c-47fa-9ead-32b5a70e7f00 GET / 304 1086.497 ms","level":"info","timestamp":"2020-12-16T18:09:29.083Z"}
+{"message":"8e611950-8b23-4980-a94d-f0fe8677b707 GET /statewise 304 631.026 ms","level":"info","timestamp":"2020-12-16T18:09:29.747Z"}
+{"message":"072923c4-3e7c-4f2a-9352-e129bd24e6e9 GET / 304 1101.913 ms","level":"info","timestamp":"2020-12-16T18:19:46.050Z"}
+{"message":"40c5090a-eb1b-49a9-8535-c82b7987a2e5 GET /statewise 304 587.689 ms","level":"info","timestamp":"2020-12-16T18:19:46.647Z"}
+{"message":"95136a1c-718c-4738-8186-fbaf3c92c182 GET / 304 1139.881 ms","level":"info","timestamp":"2020-12-16T18:19:51.544Z"}
+{"message":"5d656030-3301-4830-807b-580f6b57e538 GET /statewise 304 705.104 ms","level":"info","timestamp":"2020-12-16T18:19:52.256Z"}
+{"message":"4bf73bd1-37a8-4631-bbd6-446ff52685a1 GET / 304 1078.320 ms","level":"info","timestamp":"2020-12-16T18:23:39.245Z"}
+{"message":"7eaae937-bb80-40b1-bb39-e47a9e9c56bc GET /statewise 304 734.602 ms","level":"info","timestamp":"2020-12-16T18:23:39.987Z"}
+{"message":"59656a04-d528-4122-b3b1-ba4fdfc77cd2 GET / 304 1229.305 ms","level":"info","timestamp":"2020-12-16T18:24:54.426Z"}
+{"message":"1e8fcd4e-6426-4b70-a798-5f539e5956f9 GET /statewise 304 548.243 ms","level":"info","timestamp":"2020-12-16T18:24:54.991Z"}
+{"message":"63c513ee-dd95-44c2-b5f8-3069018c1613 GET / 304 961.251 ms","level":"info","timestamp":"2020-12-16T18:25:00.037Z"}
+{"message":"0187dd6c-5ccd-45c1-a1ec-c80877f1c8b6 GET /statewise 304 585.620 ms","level":"info","timestamp":"2020-12-16T18:25:00.634Z"}
+{"message":"80b1fac6-17b4-4985-a8c5-bfacd03494ef GET / 304 1180.725 ms","level":"info","timestamp":"2020-12-16T18:26:19.347Z"}
+{"message":"94fd8ddf-feeb-44c1-9c1b-322cd79a95fc GET /statewise 304 557.622 ms","level":"info","timestamp":"2020-12-16T18:26:19.913Z"}
+{"message":"17d8c545-f4c8-42a9-a2f9-349413629b40 GET / 304 976.572 ms","level":"info","timestamp":"2020-12-16T18:26:22.719Z"}
+{"message":"0af1a352-d489-47ed-9f8c-9bb6c56cd346 GET /statewise 304 739.635 ms","level":"info","timestamp":"2020-12-16T18:26:23.469Z"}
+{"message":"8d2b02f4-9613-4ef4-a259-ddb2a2daf67b GET / 304 1248.138 ms","level":"info","timestamp":"2020-12-16T18:31:00.605Z"}
+{"message":"b165d33d-fb76-465a-ac49-f95987892adb GET /statewise 200 571.999 ms","level":"info","timestamp":"2020-12-16T18:31:01.186Z"}
+{"message":"336965fe-be92-4bfe-af13-0ce53d44501e GET / 304 1030.545 ms","level":"info","timestamp":"2020-12-16T18:32:09.262Z"}
+{"message":"c4e8b186-ef9b-4498-81ab-7fc11cd91637 GET /statewise 304 550.881 ms","level":"info","timestamp":"2020-12-16T18:32:09.821Z"}
+{"message":"5cec371e-ac2d-4578-8216-8647a82742ee GET / 304 1567.919 ms","level":"info","timestamp":"2020-12-16T18:32:17.704Z"}
+{"message":"8e81946d-57cc-47a3-9c16-e2bb2c89fa71 GET /statewise 304 580.651 ms","level":"info","timestamp":"2020-12-16T18:32:18.291Z"}
+{"message":"e8384940-9907-4841-a583-a9f3f132b275 GET / 304 1031.353 ms","level":"info","timestamp":"2020-12-16T18:33:42.310Z"}
+{"message":"8190a2e6-f6af-4c94-b286-1fe89bc2f0ce GET /statewise 304 559.237 ms","level":"info","timestamp":"2020-12-16T18:33:42.876Z"}
+{"message":"72fc18e5-88aa-4c20-abba-d231d936260a GET / 304 1245.528 ms","level":"info","timestamp":"2020-12-16T18:34:49.460Z"}
+{"message":"16f2f658-bc7c-4120-a18c-a23400f19c22 GET /statewise 304 637.871 ms","level":"info","timestamp":"2020-12-16T18:34:50.105Z"}
+{"message":"e4ca5ef9-5f6d-454d-8f4f-74df2d52b1d8 GET / 304 1038.174 ms","level":"info","timestamp":"2020-12-16T18:50:44.066Z"}
+{"message":"207034af-d46d-41d0-b686-15f8519a558d GET /statewise 304 550.691 ms","level":"info","timestamp":"2020-12-16T18:50:44.623Z"}
+{"message":"a89970af-137d-4619-8988-cba14679c2dd GET / 200 1148.027 ms","level":"info","timestamp":"2020-12-16T18:52:44.173Z"}
+{"message":"54e14f9d-6356-4cde-8ae6-65618238963c GET /statewise 200 664.701 ms","level":"info","timestamp":"2020-12-16T18:52:44.909Z"}
+{"message":"139eaa69-f22b-410f-adde-bff3557f09ad GET / 304 1026.253 ms","level":"info","timestamp":"2020-12-16T18:52:57.135Z"}
+{"message":"9e78d13b-8c03-4a79-9707-28e79b96acaa GET /statewise 304 672.448 ms","level":"info","timestamp":"2020-12-16T18:52:57.829Z"}
+{"message":"1e2fb3c0-e40d-436d-9a60-f4c5ea5c2fb8 GET / 304 925.910 ms","level":"info","timestamp":"2020-12-16T18:53:05.670Z"}
+{"message":"5f0d835f-61e1-483b-b996-77e7453a9759 GET /statewise 304 537.420 ms","level":"info","timestamp":"2020-12-16T18:53:06.215Z"}
+{"message":"1f49cf72-67f4-4843-87b1-712835aa9767 GET / 304 996.519 ms","level":"info","timestamp":"2020-12-16T18:53:13.932Z"}
+{"message":"d583573a-c862-419d-b98b-35ce2c3b8af1 GET /statewise 304 551.887 ms","level":"info","timestamp":"2020-12-16T18:53:14.490Z"}
+{"message":"56f68170-720a-41cf-9d42-0325ba7108b9 GET / 304 1004.701 ms","level":"info","timestamp":"2020-12-16T19:02:27.347Z"}
+{"message":"09c2f31f-7104-4b4f-adb5-c1589b28b90d GET /statewise 304 612.362 ms","level":"info","timestamp":"2020-12-16T19:02:27.976Z"}
+{"message":"0b6ee462-e0eb-4287-ba94-e13d7b9ee894 GET / 304 1490.509 ms","level":"info","timestamp":"2020-12-16T19:02:57.612Z"}
+{"message":"a4b49d3b-82a8-4350-af8a-57adc758ba8c GET /statewise 304 646.176 ms","level":"info","timestamp":"2020-12-16T19:02:58.265Z"}
+{"message":"f4a668d6-2e09-4f13-89ea-6c775bb49d5a GET / 304 929.221 ms","level":"info","timestamp":"2020-12-16T19:03:19.770Z"}
+{"message":"44e23fe9-32c2-4e1c-b8a7-a553ad7b0b33 GET /statewise 304 754.620 ms","level":"info","timestamp":"2020-12-16T19:03:20.537Z"}
+{"message":"b3f5e68d-2b4a-4394-b089-7a866e0fa50f GET / 304 960.888 ms","level":"info","timestamp":"2020-12-16T19:04:10.810Z"}
+{"message":"2dfa8f1e-d4ca-44e8-b35f-eb3c573307ad GET /statewise 304 668.348 ms","level":"info","timestamp":"2020-12-16T19:04:11.487Z"}
+{"message":"f1abca92-0b18-4601-8e93-4ade497b51c5 GET / 304 918.116 ms","level":"info","timestamp":"2020-12-16T19:04:34.089Z"}
+{"message":"d1344bb5-d1c9-4c38-a78b-192392d6b98e GET /statewise 304 597.731 ms","level":"info","timestamp":"2020-12-16T19:04:34.696Z"}
+{"message":"5dbe2f95-15b8-4f04-85b0-80adaa47ce1e GET / 304 1497.512 ms","level":"info","timestamp":"2020-12-16T19:15:37.763Z"}
+{"message":"5d039741-7946-4f2a-a06f-c94a86898ade GET /statewise - - ms","level":"info","timestamp":"2020-12-16T19:15:38.176Z"}
+{"message":"92b3ea9c-e7ae-4d75-b767-2d2b56740e24 GET / 304 945.198 ms","level":"info","timestamp":"2020-12-16T19:15:40.945Z"}
+{"message":"1566814f-e71f-4798-9bb8-8ba9be07280b GET /statewise 200 571.443 ms","level":"info","timestamp":"2020-12-16T19:15:41.537Z"}
+{"message":"8895bdaf-d47f-47b4-b570-88fa6a7cef73 GET / 304 1035.475 ms","level":"info","timestamp":"2020-12-16T19:15:46.887Z"}
+{"message":"46d0237c-35a6-45c3-9680-6e8b85a90b4b GET /statewise 304 593.309 ms","level":"info","timestamp":"2020-12-16T19:15:47.489Z"}
+{"message":"2de1600a-d2e1-4478-af47-f5a5a8c3bc46 GET / 304 1008.460 ms","level":"info","timestamp":"2020-12-16T19:20:25.890Z"}
+{"message":"20abb82b-0929-48ba-a5eb-a95f02bff583 GET /statewise 304 587.679 ms","level":"info","timestamp":"2020-12-16T19:20:26.484Z"}
+{"message":"3c165879-20f0-4439-a893-bcf329cc6ab5 GET / 304 1114.734 ms","level":"info","timestamp":"2020-12-16T19:22:27.815Z"}
+{"message":"eec6bfd2-be3c-4ace-87e1-b0f68a51875b GET /statewise 304 506.807 ms","level":"info","timestamp":"2020-12-16T19:22:28.330Z"}
+{"message":"816a6ac5-23ef-419b-8795-021864ff5de9 GET / 304 931.576 ms","level":"info","timestamp":"2020-12-16T19:23:00.082Z"}
+{"message":"c892879d-b7f4-47d4-a5c2-ad50264dceef GET /statewise 304 526.379 ms","level":"info","timestamp":"2020-12-16T19:23:00.643Z"}
+{"message":"b7c53e66-63f7-4145-82bb-66b08d8304fd GET / 304 1069.126 ms","level":"info","timestamp":"2020-12-16T19:24:25.118Z"}
+{"message":"016474ca-84be-4923-afcb-a5038e88d353 GET /statewise 304 600.040 ms","level":"info","timestamp":"2020-12-16T19:24:25.726Z"}
+{"message":"3430ce92-3a50-48d7-af70-d080943a381a GET / 304 1216.768 ms","level":"info","timestamp":"2020-12-16T19:24:55.424Z"}
+{"message":"ec8f5710-dfac-40c0-b29e-022625dca2dc GET /statewise 304 492.270 ms","level":"info","timestamp":"2020-12-16T19:24:55.945Z"}
+{"message":"d4a15951-5cce-4f8a-a84f-2901160ba23d GET / 304 1609.418 ms","level":"info","timestamp":"2020-12-16T19:25:24.559Z"}
+{"message":"2fe2a0e8-7d11-4e89-9cba-43c2a7b496aa GET /statewise 304 550.270 ms","level":"info","timestamp":"2020-12-16T19:25:25.120Z"}
+{"message":"efc27322-5fd0-476e-a26b-e2ef1d52daed GET / 304 1152.770 ms","level":"info","timestamp":"2020-12-16T19:25:54.314Z"}
+{"message":"34d8d3de-6eb7-4214-a41f-8a51ba132c62 GET /statewise 304 516.973 ms","level":"info","timestamp":"2020-12-16T19:25:54.839Z"}
+{"message":"2038072d-468d-406b-82fb-dcc8908e4d33 GET / 304 1243.371 ms","level":"info","timestamp":"2020-12-16T19:26:10.072Z"}
+{"message":"0525a1d0-0c72-403a-b871-1112f3a18b29 GET /statewise - - ms","level":"info","timestamp":"2020-12-16T19:26:10.486Z"}
+{"message":"2fdb2e2f-564a-43dc-9bd7-ddd5a4524c8d GET / 304 911.758 ms","level":"info","timestamp":"2020-12-16T19:26:11.851Z"}
+{"message":"d0c90c3f-b8d6-4f29-bb68-4b888e602d77 GET /statewise 200 575.259 ms","level":"info","timestamp":"2020-12-16T19:26:12.434Z"}
+{"message":"2553e1ae-b14b-42bf-9605-cf463e3c25f5 GET / 304 1280.783 ms","level":"info","timestamp":"2020-12-16T19:26:40.476Z"}
+{"message":"dcc64140-2a0c-43bc-a2c3-e5d548fcb6d1 GET /statewise 304 616.246 ms","level":"info","timestamp":"2020-12-16T19:26:41.123Z"}
+{"message":"dd21d9b0-2d72-4780-9a7b-08ea6b3804ae GET / 304 1193.513 ms","level":"info","timestamp":"2020-12-16T19:28:22.392Z"}
+{"message":"469bc644-c2ed-471d-9a90-cb3eb3915e3f GET /statewise 304 598.237 ms","level":"info","timestamp":"2020-12-16T19:28:22.998Z"}
+{"message":"db633c12-9ba3-4579-b2a8-898a47ee2a0a GET / 304 1319.770 ms","level":"info","timestamp":"2020-12-16T19:28:50.503Z"}
+{"message":"3cfd86f0-ce15-4a87-8047-137ca8dc2e2e GET /statewise 304 555.409 ms","level":"info","timestamp":"2020-12-16T19:28:51.066Z"}
+{"message":"31c88234-e485-4621-8413-1b704a5aff34 GET / 304 1115.107 ms","level":"info","timestamp":"2020-12-16T19:29:05.287Z"}
+{"message":"9d7e023e-0b87-4626-85f3-05ffe2d47cf3 GET /statewise 304 514.533 ms","level":"info","timestamp":"2020-12-16T19:29:05.830Z"}
+{"message":"d3fa6edc-651e-44ab-b922-7556c456e65a GET / 304 886.973 ms","level":"info","timestamp":"2020-12-16T19:29:32.049Z"}
+{"message":"29b31ce4-b45d-447b-bae6-a1925756646c GET /statewise 304 590.011 ms","level":"info","timestamp":"2020-12-16T19:29:32.646Z"}
+{"message":"183da2bf-6d1c-4c97-bc4f-dfdcea6cd736 GET / 304 884.340 ms","level":"info","timestamp":"2020-12-16T19:29:54.054Z"}
+{"message":"7ad2fda1-336c-4351-837b-9eb3c3270c1b GET /statewise 304 558.688 ms","level":"info","timestamp":"2020-12-16T19:29:54.655Z"}
+{"message":"82a65d0e-e9c1-4b4a-8dac-a5d5d5debaa5 GET / 304 1041.168 ms","level":"info","timestamp":"2020-12-16T19:31:13.167Z"}
+{"message":"33a1c646-8a57-42e7-8d46-11a1aab97a07 GET /statewise 304 462.445 ms","level":"info","timestamp":"2020-12-16T19:31:13.640Z"}
+{"message":"e4d2cc68-34c2-4ee7-aa5d-728e05da8b98 GET / 304 932.468 ms","level":"info","timestamp":"2020-12-16T19:31:32.075Z"}
+{"message":"20547255-68af-4335-b843-e1d51a7d2637 GET /statewise 304 529.349 ms","level":"info","timestamp":"2020-12-16T19:31:32.611Z"}
+{"message":"9554ac11-a0ff-486f-9caa-b0f35c6cc879 GET / 304 1022.305 ms","level":"info","timestamp":"2020-12-16T19:31:57.192Z"}
+{"message":"08743457-d3f1-41ef-8b6d-477eb0cbdc3e GET /statewise 304 648.789 ms","level":"info","timestamp":"2020-12-16T19:31:57.852Z"}
+{"message":"b410f7ff-57b4-4bb2-bbd4-5d630d02e480 GET / 304 911.313 ms","level":"info","timestamp":"2020-12-16T19:32:21.083Z"}
+{"message":"7b6cdc53-4d0a-4a0a-90ab-b4ee7ccfab89 GET /statewise 304 776.982 ms","level":"info","timestamp":"2020-12-16T19:32:21.875Z"}
+{"message":"dd91c9e5-06e1-407b-90ab-0d6158120e37 GET / 304 958.811 ms","level":"info","timestamp":"2020-12-16T19:32:31.437Z"}
+{"message":"5fcb3d38-26ff-4b8b-9237-687b194cea62 GET /statewise 304 587.534 ms","level":"info","timestamp":"2020-12-16T19:32:32.036Z"}
+{"message":"be593f22-21ce-4b49-bfad-76f9fa18dfc4 GET / 304 976.513 ms","level":"info","timestamp":"2020-12-16T19:33:20.150Z"}
+{"message":"5cafc06a-ee50-4d6c-b773-994cd7634c39 GET /statewise 304 603.832 ms","level":"info","timestamp":"2020-12-16T19:33:20.860Z"}
+{"message":"4cbdb4f6-5b76-47a3-8cb3-bf3e2b2c5f56 GET / 304 908.878 ms","level":"info","timestamp":"2020-12-16T19:33:35.801Z"}
+{"message":"a448cfe3-3248-49b8-9150-6778708004d8 GET /statewise 304 630.423 ms","level":"info","timestamp":"2020-12-16T19:33:36.446Z"}
+{"message":"69e9ddf2-f6d4-4e4a-b0d9-0bf0d7572dac GET / 304 1595.517 ms","level":"info","timestamp":"2020-12-16T19:33:51.754Z"}
+{"message":"de4edea5-9bf8-47e3-a4df-45ade2eb1a91 GET /statewise 304 546.890 ms","level":"info","timestamp":"2020-12-16T19:33:52.309Z"}
+{"message":"1ca544cc-03a5-454b-92b0-c2d1e2f24d02 GET / 304 1188.746 ms","level":"info","timestamp":"2020-12-16T19:34:04.312Z"}
+{"message":"1164fd7f-8477-46d1-b54f-90336cafc9a5 GET /statewise 304 529.808 ms","level":"info","timestamp":"2020-12-16T19:34:04.911Z"}
+{"message":"fb2c90bd-344d-4aa8-b181-ec5a43ddd74a GET / 304 1021.644 ms","level":"info","timestamp":"2020-12-16T19:34:11.154Z"}
+{"message":"a6b2da70-1d3e-4e7f-b114-e4be0b91524d GET /statewise 304 547.228 ms","level":"info","timestamp":"2020-12-16T19:34:11.709Z"}
+{"message":"f5ff655a-2498-4567-8dd6-9b794ca6e302 GET / 304 1352.160 ms","level":"info","timestamp":"2020-12-16T19:34:15.757Z"}
+{"message":"11fb7297-dbc6-4f9a-b262-305b2ff75b0c GET /statewise 304 552.640 ms","level":"info","timestamp":"2020-12-16T19:34:16.318Z"}
+{"message":"46017dcc-09d1-4543-ab34-68e9a6998b5f GET / 304 1580.804 ms","level":"info","timestamp":"2020-12-16T19:34:31.438Z"}
+{"message":"c05f620b-591c-4839-bfc8-722062ec7dfc GET /statewise 304 519.097 ms","level":"info","timestamp":"2020-12-16T19:34:31.965Z"}
+{"message":"b56a23bf-6eda-4a84-a72a-594ecd24e228 GET / 304 954.732 ms","level":"info","timestamp":"2020-12-16T19:34:46.093Z"}
+{"message":"b9db3bd8-c6a7-4c27-8b65-403d32ae632c GET /statewise 304 585.159 ms","level":"info","timestamp":"2020-12-16T19:34:46.685Z"}
+{"message":"efd03e50-867a-464f-b91c-00994e62665f GET / 304 1083.010 ms","level":"info","timestamp":"2020-12-16T19:34:53.991Z"}
+{"message":"e8f4e4bb-dfba-43e0-ba45-32224cc61e82 GET /statewise 304 598.692 ms","level":"info","timestamp":"2020-12-16T19:34:54.598Z"}
+{"message":"049dd5ad-a40d-4faa-a84c-89fd6798dfb7 GET / 304 1180.071 ms","level":"info","timestamp":"2020-12-16T19:41:47.357Z"}
+{"message":"acff7ca4-52dc-46fe-8f96-d5373b1a72d5 GET /statewise 304 608.870 ms","level":"info","timestamp":"2020-12-16T19:41:47.986Z"}
+{"message":"218ffbe3-87ef-459e-8266-431c1ce67e7c GET / 304 969.270 ms","level":"info","timestamp":"2020-12-16T19:42:32.997Z"}
+{"message":"9de1bc31-273b-48aa-9c64-18579d21275e GET /statewise 304 790.169 ms","level":"info","timestamp":"2020-12-16T19:42:33.795Z"}
+{"message":"06aae7a9-c267-4cb8-b89e-48342e35051b GET / 304 1149.616 ms","level":"info","timestamp":"2020-12-16T19:42:48.906Z"}
+{"message":"9071af58-7824-4ed4-87d5-01fe9fc234cc GET /statewise 304 642.988 ms","level":"info","timestamp":"2020-12-16T19:42:49.557Z"}
+{"message":"e446c355-2249-4f06-9e3e-c8258d9589e8 GET / 304 962.851 ms","level":"info","timestamp":"2020-12-16T19:42:58.308Z"}
+{"message":"40242766-7106-4cb0-9e8a-8641216b78e3 GET /statewise 304 556.400 ms","level":"info","timestamp":"2020-12-16T19:42:58.871Z"}
+{"message":"4bbd87b1-91e3-4c2d-b64b-bfeb649eaf71 GET / 304 1311.705 ms","level":"info","timestamp":"2020-12-16T19:43:21.441Z"}
+{"message":"aa635024-3ef9-47e3-b82b-c40e1268d45b GET /statewise 304 658.079 ms","level":"info","timestamp":"2020-12-16T19:43:22.114Z"}
+{"message":"8b05ba5f-6c5d-4db2-9916-6f9cf7759bc0 GET / 304 978.178 ms","level":"info","timestamp":"2020-12-16T19:43:35.986Z"}
+{"message":"bea37565-2abd-49c2-952a-85379f8533c5 GET /statewise 304 640.188 ms","level":"info","timestamp":"2020-12-16T19:43:36.634Z"}
+{"message":"2efc0bef-c2bc-47f8-84ee-3c5064dddf19 GET / 304 924.468 ms","level":"info","timestamp":"2020-12-16T19:43:52.068Z"}
+{"message":"f61a1c9b-ef2c-420e-ba7c-a460c50ceada GET /statewise 304 517.849 ms","level":"info","timestamp":"2020-12-16T19:43:52.593Z"}
+{"message":"36cec8ee-e1f3-4b57-922b-81d3d476ed6e GET / 304 998.539 ms","level":"info","timestamp":"2020-12-16T19:44:17.144Z"}
+{"message":"a44bc191-8851-445d-bd18-73f30916ffcf GET /statewise 304 636.985 ms","level":"info","timestamp":"2020-12-16T19:44:17.791Z"}
+{"message":"b6be895d-5ba5-441e-bd02-24d005f530ce GET / 304 968.884 ms","level":"info","timestamp":"2020-12-16T19:46:29.065Z"}
+{"message":"54a9ae7d-2a29-4954-b16c-627c44ecdfeb GET /statewise 304 563.575 ms","level":"info","timestamp":"2020-12-16T19:46:29.637Z"}
+{"message":"86b235ec-45e5-4c07-8313-8500e22537b6 GET / 304 1085.148 ms","level":"info","timestamp":"2020-12-16T19:46:39.389Z"}
+{"message":"76b3d9c1-7a46-4d75-8660-e028a397a0cc GET /statewise 304 511.647 ms","level":"info","timestamp":"2020-12-16T19:46:39.911Z"}
+{"message":"43291d3b-2394-4f40-9396-cb86bfcfcff4 GET / 200 946.910 ms","level":"info","timestamp":"2020-12-16T19:50:13.280Z"}
+{"message":"26b63628-de0b-4ced-ace8-9872cfc4c539 GET /statewise 304 635.500 ms","level":"info","timestamp":"2020-12-16T19:50:13.952Z"}
+{"message":"7890b58f-9369-441f-8335-f2075259d155 GET / 304 961.286 ms","level":"info","timestamp":"2020-12-16T19:52:09.669Z"}
+{"message":"2ec6d8ea-089c-457e-a232-8239aa9c504e GET /statewise 304 552.461 ms","level":"info","timestamp":"2020-12-16T19:52:10.228Z"}
+{"message":"bf938b7c-ac06-4186-b87a-5a8afdf7a71b GET / 304 1273.532 ms","level":"info","timestamp":"2020-12-16T19:56:47.510Z"}
+{"message":"6a8bce49-83db-4c73-91ac-2866f1ccfe1e GET /statewise 304 552.624 ms","level":"info","timestamp":"2020-12-16T19:56:48.073Z"}
+{"message":"d0eae706-a9ed-4725-be26-120d54e3da32 GET / 304 1378.279 ms","level":"info","timestamp":"2020-12-16T19:58:08.484Z"}
+{"message":"473ee20e-d95f-42f4-be8c-05cbe64c9752 GET /statewise 304 664.111 ms","level":"info","timestamp":"2020-12-16T19:58:09.155Z"}
+{"message":"205fd014-6cfe-42b2-8d83-95ee0697dceb GET / 304 914.288 ms","level":"info","timestamp":"2020-12-16T19:59:45.513Z"}
+{"message":"4efbd68c-00e5-40a4-87a7-a0db74c551a4 GET /statewise 304 548.337 ms","level":"info","timestamp":"2020-12-16T19:59:46.072Z"}
+{"message":"cb43c119-c2a7-4ba7-af9a-e1d046442796 GET / 304 1310.584 ms","level":"info","timestamp":"2020-12-16T20:07:05.577Z"}
+{"message":"dfa9e185-4e41-478a-a727-245e6e7ecce4 GET /statewise 304 599.388 ms","level":"info","timestamp":"2020-12-16T20:07:06.383Z"}
+{"message":"43c2e109-be6d-4f01-8098-b16463355aa6 GET / 304 952.132 ms","level":"info","timestamp":"2020-12-16T20:09:48.377Z"}
+{"message":"d781fa23-32e9-40c9-bef0-cbde49decd54 GET /statewise 304 841.495 ms","level":"info","timestamp":"2020-12-16T20:09:49.225Z"}
+{"message":"3ee2bacf-5c25-48a1-acd3-687b6236ca56 GET / 304 986.285 ms","level":"info","timestamp":"2020-12-16T20:20:20.898Z"}
+{"message":"7d9bb47f-badb-4a14-bbcd-3324c9e70e91 GET /statewise 304 773.498 ms","level":"info","timestamp":"2020-12-16T20:20:21.700Z"}
+{"message":"71aa54ce-83e4-4139-80ab-cd80d81cd568 GET / 200 10297.007 ms","level":"info","timestamp":"2020-12-17T03:54:06.167Z"}
+{"message":"16ee06b0-f153-4038-879d-d9baaafe5b1e GET /statewise 200 829.178 ms","level":"info","timestamp":"2020-12-17T03:54:07.004Z"}
+{"message":"aeff77c9-7f8c-4d51-b41f-66665ec50e0d GET / 200 1010.543 ms","level":"info","timestamp":"2020-12-17T03:55:26.862Z"}
+{"message":"a8314877-6d5d-4d45-bcfb-4ef98eaeab91 GET /statewise 200 670.377 ms","level":"info","timestamp":"2020-12-17T03:55:27.541Z"}
+{"message":"6e0c5402-1e32-4296-b299-682b70b38f4b GET / 304 1146.617 ms","level":"info","timestamp":"2020-12-17T03:55:45.279Z"}
+{"message":"ae8f37b9-4f18-48cd-aea0-b18a1d2c3537 GET /statewise 304 509.487 ms","level":"info","timestamp":"2020-12-17T03:55:45.795Z"}
+{"message":"42f6f538-6078-423b-945e-33c7f88f05df GET / 304 1131.284 ms","level":"info","timestamp":"2020-12-17T03:56:22.860Z"}
+{"message":"17328853-92c4-4b3a-b829-07ad804e2bc9 GET /statewise 304 611.797 ms","level":"info","timestamp":"2020-12-17T03:56:23.481Z"}
+{"message":"a143080e-76c0-4acc-a5ad-ef7ac31c60e2 GET / 304 1595.452 ms","level":"info","timestamp":"2020-12-17T03:57:07.907Z"}
+{"message":"dad29849-8353-456a-aa28-56db07e513de GET /statewise 304 642.090 ms","level":"info","timestamp":"2020-12-17T03:57:08.555Z"}
+{"message":"50c44cc4-4ecd-4dc6-8eb2-6095e300f99d GET / 304 1224.760 ms","level":"info","timestamp":"2020-12-17T04:02:48.225Z"}
+{"message":"17a6a4cd-653d-401a-b65c-f4f2054b2618 GET /statewise 304 478.000 ms","level":"info","timestamp":"2020-12-17T04:02:48.711Z"}
+{"message":"9b1af9a5-7c35-468c-bd95-9d09de90d795 GET / 304 1381.452 ms","level":"info","timestamp":"2020-12-17T04:05:35.674Z"}
+{"message":"6811b30d-7d4c-41c5-af7d-eaf37480a4ba GET /statewise 304 666.912 ms","level":"info","timestamp":"2020-12-17T04:05:36.347Z"}
+{"message":"68064a31-a531-4fa5-ae73-7a832b6d8442 GET / 304 1171.841 ms","level":"info","timestamp":"2020-12-17T04:06:13.527Z"}
+{"message":"bee6ec97-5755-45d8-b605-55aed62286df GET /statewise 304 581.708 ms","level":"info","timestamp":"2020-12-17T04:06:14.115Z"}
+{"message":"92238ab0-0f5f-47a5-acde-5cb5ca35a3c7 GET / 304 954.628 ms","level":"info","timestamp":"2020-12-17T04:06:28.797Z"}
+{"message":"bbe78c33-1be3-4548-a7d0-bf218cb1f9de GET /statewise 304 504.631 ms","level":"info","timestamp":"2020-12-17T04:06:29.309Z"}
+{"message":"b6337940-e7c7-43ad-b0f4-f41d6476a442 GET / 304 982.606 ms","level":"info","timestamp":"2020-12-17T04:30:58.224Z"}
+{"message":"ef9318db-538c-4b72-8574-05050d3ad8a7 GET /statewise 200 654.305 ms","level":"info","timestamp":"2020-12-17T04:30:58.884Z"}
+{"message":"60cc6aab-a1a9-4f40-8b31-9c7e6c1b9dba GET / 304 915.086 ms","level":"info","timestamp":"2020-12-17T04:31:09.281Z"}
+{"message":"ae603199-f05f-4368-a41d-60d1679fe1d9 GET /statewise 304 514.799 ms","level":"info","timestamp":"2020-12-17T04:31:09.814Z"}
+{"message":"1554ae7c-e60d-4fbf-b877-3501a3bf285e GET / 304 967.425 ms","level":"info","timestamp":"2020-12-17T04:32:05.147Z"}
+{"message":"84c989ce-4721-4a6c-9157-37253ca373c0 GET /statewise 304 510.166 ms","level":"info","timestamp":"2020-12-17T04:32:05.665Z"}
+{"message":"07b2f274-8baa-4d29-a8c4-6819cb1ceea4 GET / 304 951.997 ms","level":"info","timestamp":"2020-12-17T04:32:59.406Z"}
+{"message":"81e2eb70-bae2-4f65-9a1a-e95f9e909308 GET /statewise 304 565.126 ms","level":"info","timestamp":"2020-12-17T04:32:59.982Z"}
+{"message":"d13e611f-f429-4d81-92a1-6b56d7cdff16 GET / 304 912.431 ms","level":"info","timestamp":"2020-12-17T04:33:58.009Z"}
+{"message":"b9933439-4260-4f2f-9b74-da6ea778306f GET /statewise 304 549.798 ms","level":"info","timestamp":"2020-12-17T04:33:58.571Z"}
